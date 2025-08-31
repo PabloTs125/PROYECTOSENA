@@ -1,0 +1,13 @@
+C:/Users/jpsan/source/repos/TiendaDeMaleza/CapaNegocio/bin/Debug/CapaNegocio.dll
+C:/Users/jpsan/source/repos/TiendaDeMaleza/CapaNegocio/bin/Debug/CapaNegocio.pdb
+C:/Users/jpsan/source/repos/TiendaDeMaleza/CapaNegocio/bin/Debug/CapaDatos.dll
+C:/Users/jpsan/source/repos/TiendaDeMaleza/CapaNegocio/bin/Debug/CapaEntidad.dll
+C:/Users/jpsan/source/repos/TiendaDeMaleza/CapaNegocio/bin/Debug/CapaDatos.pdb
+C:/Users/jpsan/source/repos/TiendaDeMaleza/CapaNegocio/bin/Debug/CapaEntidad.pdb
+C:/Users/jpsan/source/repos/TiendaDeMaleza/CapaNegocio/obj/Debug/CapaNegocio.csproj.AssemblyReference.cache
+C:/Users/jpsan/source/repos/TiendaDeMaleza/CapaNegocio/obj/Debug/CapaNegocio.csproj.CoreCompileInputs.cache
+C:/Users/jpsan/source/repos/TiendaDeMaleza/CapaNegocio/obj/Debug/CapaNegocio.csproj.CopyComplete
+C:/Users/jpsan/source/repos/TiendaDeMaleza/CapaNegocio/obj/Debug/CapaNegocio.dll
+C:/Users/jpsan/source/repos/TiendaDeMaleza/CapaNegocio/obj/Debug/CapaNegocio.pdb
+/Users/carolinarestrepo/Desktop/TiendaDeMaleza/CapaNegocio/obj/Debug/CapaNegocio.dll
+/Users/carolinarestrepo/Desktop/TiendaDeMaleza/CapaNegocio/obj/Debug/CapaNegocio.pdb

@@ -1,0 +1,7 @@
+C:/Users/jpsan/source/repos/TiendaDeMaleza/CapaEntidad/bin/Debug/CapaEntidad.dll
+C:/Users/jpsan/source/repos/TiendaDeMaleza/CapaEntidad/bin/Debug/CapaEntidad.pdb
+C:/Users/jpsan/source/repos/TiendaDeMaleza/CapaEntidad/obj/Debug/CapaEntidad.csproj.CoreCompileInputs.cache
+C:/Users/jpsan/source/repos/TiendaDeMaleza/CapaEntidad/obj/Debug/CapaEntidad.dll
+C:/Users/jpsan/source/repos/TiendaDeMaleza/CapaEntidad/obj/Debug/CapaEntidad.pdb
+/Users/carolinarestrepo/Desktop/TiendaDeMaleza/CapaEntidad/obj/Debug/CapaEntidad.dll
+/Users/carolinarestrepo/Desktop/TiendaDeMaleza/CapaEntidad/obj/Debug/CapaEntidad.pdb
